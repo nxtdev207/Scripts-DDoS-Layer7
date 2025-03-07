@@ -1,2 +1,2 @@
 # Script-DDoS-Layer7
-Telegram : @zxcr666x
+Telegram : @ryanguyendev
